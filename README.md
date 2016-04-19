@@ -1,7 +1,5 @@
 # test_repo
 
-```
-Wyncode
+*Wyncode*
 ===========
 Wyncode Git lecture project.
-```
